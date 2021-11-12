@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "119605072355",
+    "project_id": "sa-sauce-app",
+    "storage_bucket": "sa-sauce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119605072355:android:cf7b5a749fd49176ddd0d6",
+        "android_client_info": {
+          "package_name": "za.co.system32online.sa_sauce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119605072355-0oegjkphoatbr7hb3rg778cgfda3nt6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "za.co.system32online.sa_sauce_app",
+            "certificate_hash": "1855513af6633f68a7bb3aa9ef7a1ab7c3f7a930"
+          }
+        },
+        {
+          "client_id": "119605072355-8hiku9urikks7h13p9thgg7p9g8lovdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQrURoGt5jD2JnrQSX2a7lRYtTi5AVsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119605072355-8hiku9urikks7h13p9thgg7p9g8lovdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
